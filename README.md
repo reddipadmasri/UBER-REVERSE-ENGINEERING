@@ -1,2 +1,3 @@
 # UBER REVERSE ENGINEERING
+Reverse engineering the Uber mobile app provides valuable insights into how the app handles its OTP-based login process and manages data flows during user authentication. By analyzing the app, you can identify the sequence of API calls, headers, payloads, and security mechanisms involved in user login. This helps in understanding how user data is transmitted securely between the app and its backend server. The purpose of reverse engineering is to uncover details about how authentication and communication are implemented, which can reveal potential vulnerabilities or strengths in the app's security setup. It also allows you to document and replicate these processes for research, testing, or enhancing cybersecurity measures
  
